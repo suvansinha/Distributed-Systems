@@ -43,7 +43,7 @@ mpiexec -n 4 python3 Matmul.py --mode mpi --n 500
 
 ## Output Example
 
-    Normal: N=500, time=0.0123s
+    Normal: N=500, procs=1, time=0.0123s
 
 or
 
